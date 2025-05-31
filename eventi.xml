@@ -69,17 +69,4 @@
     <desc lang="it">Basket : Playoff Serie A | Semifinale | Gara 1</desc>
     <category lang="it">Basketball</category>
   </programme>
-  <channel id="UnitedRugbyChampionshipSharksvsMunster">
-    <display-name>United Rugby Championship : Sharks vs Munster</display-name>
-  </channel>
-  <programme start="20250531000000 +0200" stop="20250531183000 +0200" channel="UnitedRugbyChampionshipSharksvsMunster">
-    <title lang="it">Inizia  alle 18:30.</title>
-    <desc lang="it">United Rugby Championship : Sharks vs Munster.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250531183000 +0200" stop="20250531203000 +0200" channel="UnitedRugbyChampionshipSharksvsMunster">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">United Rugby Championship : Sharks vs Munster</desc>
-    <category lang="it">Rugby Union</category>
-  </programme>
 </tv>
