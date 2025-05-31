@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <display-name>UEFA Champions League Final : PSG vs Internazionale</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531210000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531210000 +0200" stop="20250531230000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250531000000 +0200" stop="20250531210000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531210000 +0200" stop="20250531230000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250531000000 +0200" stop="20250531210000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531210000 +0200" stop="20250531230000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <programme start="20250531000000 +0200" stop="20250531210000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Inizia  alle 21:00.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531210000 +0200" stop="20250531230000 +0200" channel="UEFAChampionsLeagueFinalPSGvsInternazionale">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">UEFA Champions League Final : PSG vs Internazionale</desc>
+    <category lang="it">Soccer</category>
+  </programme>
+  <channel id="Formula1AramcoSpanishGrandPrixPractice3">
+    <display-name>Formula 1 : Aramco Spanish Grand Prix - Practice 3</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531123000 +0200" channel="Formula1AramcoSpanishGrandPrixPractice3">
+    <title lang="it">Inizia  alle 12:30.</title>
+    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Practice 3.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531123000 +0200" stop="20250531143000 +0200" channel="Formula1AramcoSpanishGrandPrixPractice3">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Practice 3</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula2AramcoSpanishGrandPrixSprintRace">
+    <display-name>Formula 2 : Aramco Spanish Grand Prix - Sprint Race</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531141500 +0200" channel="Formula2AramcoSpanishGrandPrixSprintRace">
+    <title lang="it">Inizia  alle 14:15.</title>
+    <desc lang="it">Formula 2 : Aramco Spanish Grand Prix - Sprint Race.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531141500 +0200" stop="20250531161500 +0200" channel="Formula2AramcoSpanishGrandPrixSprintRace">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 2 : Aramco Spanish Grand Prix - Sprint Race</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="Formula1AramcoSpanishGrandPrixQualifying">
+    <display-name>Formula 1 : Aramco Spanish Grand Prix - Qualifying</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531160000 +0200" channel="Formula1AramcoSpanishGrandPrixQualifying">
+    <title lang="it">Inizia  alle 16:00.</title>
+    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Qualifying.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531160000 +0200" stop="20250531180000 +0200" channel="Formula1AramcoSpanishGrandPrixQualifying">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Qualifying</desc>
+    <category lang="it">Motorsport</category>
+  </programme>
+  <channel id="GrandSlamTrackFiladelfiaPhiladelphiaDay1">
+    <display-name>Grand Slam Track | Filadelfia Philadelphia | Day 1</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531223000 +0200" channel="GrandSlamTrackFiladelfiaPhiladelphiaDay1">
+    <title lang="it">Inizia  alle 22:30.</title>
+    <desc lang="it">Grand Slam Track | Filadelfia Philadelphia | Day 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531223000 +0200" stop="20250601003000 +0200" channel="GrandSlamTrackFiladelfiaPhiladelphiaDay1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Grand Slam Track | Filadelfia Philadelphia | Day 1</desc>
+    <category lang="it">Athletics</category>
+  </programme>
+  <channel id="BasketPlayoffSerieASemifinaleGara1">
+    <display-name>Basket : Playoff Serie A | Semifinale | Gara 1</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531204000 +0200" channel="BasketPlayoffSerieASemifinaleGara1">
+    <title lang="it">Inizia  alle 20:40.</title>
+    <desc lang="it">Basket : Playoff Serie A | Semifinale | Gara 1.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531204000 +0200" stop="20250531224000 +0200" channel="BasketPlayoffSerieASemifinaleGara1">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Basket : Playoff Serie A | Semifinale | Gara 1</desc>
+    <category lang="it">Basketball</category>
+  </programme>
+  <channel id="GirodItaliaStage20MaleVerrsSestriere205km">
+    <display-name>Giro d'Italia | Stage 20 Male | Verrès > Sestriere (205 km)</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531150000 +0200" channel="GirodItaliaStage20MaleVerrsSestriere205km">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Giro d'Italia | Stage 20 Male | Verrès > Sestriere (205 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531150000 +0200" stop="20250531170000 +0200" channel="GirodItaliaStage20MaleVerrsSestriere205km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Stage 20 Male | Verrès > Sestriere (205 km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <programme start="20250531000000 +0200" stop="20250531150000 +0200" channel="GirodItaliaStage20MaleVerrsSestriere205km">
+    <title lang="it">Inizia  alle 15:00.</title>
+    <desc lang="it">Giro d'Italia | Stage 20 Male | Verrès > Sestriere (205 km).</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531150000 +0200" stop="20250531170000 +0200" channel="GirodItaliaStage20MaleVerrsSestriere205km">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">Giro d'Italia | Stage 20 Male | Verrès > Sestriere (205 km)</desc>
+    <category lang="it">Cycling</category>
+  </programme>
+  <channel id="UnitedRugbyChampionshipSharksvsMunster">
+    <display-name>United Rugby Championship : Sharks vs Munster</display-name>
+  </channel>
+  <programme start="20250531000000 +0200" stop="20250531183000 +0200" channel="UnitedRugbyChampionshipSharksvsMunster">
+    <title lang="it">Inizia  alle 18:30.</title>
+    <desc lang="it">United Rugby Championship : Sharks vs Munster.</desc>
+    <category lang="it">Annuncio</category>
+  </programme>
+  <programme start="20250531183000 +0200" stop="20250531203000 +0200" channel="UnitedRugbyChampionshipSharksvsMunster">
+    <title lang="it">Trasmesso in diretta.</title>
+    <desc lang="it">United Rugby Championship : Sharks vs Munster</desc>
+    <category lang="it">Rugby Union</category>
+  </programme>
+</tv>
