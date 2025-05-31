@@ -29,9 +29,3 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="basketplayoffserieasemifinalegara1" tvg-name="Basket : Playoff Serie A | Semifinale | Gara 1 (20:40)" tvg-logo="https://png.pngtree.com/png-clipart/20230527/original/pngtree-basketball-logo-png-image_9171255.png" group-title="Eventi Live",Basket : Playoff Serie A | Semifinale | Gara 1 (20:40)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
-#EXTINF:-1 tvg-name="Rugby Union" group-title="Eventi Live",--- Rugby Union ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="unitedrugbychampionshipsharksvsmunster" tvg-name="United Rugby Championship : Sharks vs Munster (18:30)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Sharks_vs_Munster.png" group-title="Eventi Live",United Rugby Championship : Sharks vs Munster (18:30)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-460.php
-
