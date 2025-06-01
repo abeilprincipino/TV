@@ -26,32 +26,6 @@
     <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 8</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="Formula3AramcoSpanishGrandPrixRace">
-    <display-name>Formula 3 : Aramco Spanish Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20250601000000 +0200" stop="20250601083000 +0200" channel="Formula3AramcoSpanishGrandPrixRace">
-    <title lang="it">Inizia  alle 08:30.</title>
-    <desc lang="it">Formula 3 : Aramco Spanish Grand Prix - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601083000 +0200" stop="20250601103000 +0200" channel="Formula3AramcoSpanishGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 3 : Aramco Spanish Grand Prix - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="Formula2AramcoSpanishGrandPrixRace">
-    <display-name>Formula 2 : Aramco Spanish Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20250601000000 +0200" stop="20250601095500 +0200" channel="Formula2AramcoSpanishGrandPrixRace">
-    <title lang="it">Inizia  alle 09:55.</title>
-    <desc lang="it">Formula 2 : Aramco Spanish Grand Prix - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601095500 +0200" stop="20250601115500 +0200" channel="Formula2AramcoSpanishGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 2 : Aramco Spanish Grand Prix - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="WorldChampionshipGermanyMX2Race1">
     <display-name>World Championship Germany | MX2 | Race 1</display-name>
   </channel>
