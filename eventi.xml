@@ -13,32 +13,6 @@
     <desc lang="it">Italy - Serie B : Spezia vs Cremonese</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="Formula1AramcoSpanishGrandPrixRace">
-    <display-name>Formula 1 : Aramco Spanish Grand Prix - Race</display-name>
-  </channel>
-  <programme start="20250601000000 +0200" stop="20250601150000 +0200" channel="Formula1AramcoSpanishGrandPrixRace">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Race.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601150000 +0200" stop="20250601170000 +0200" channel="Formula1AramcoSpanishGrandPrixRace">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula 1 : Aramco Spanish Grand Prix - Race</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
-  <channel id="WorldChampionshipGermanyMX2Race2">
-    <display-name>World Championship Germany | MX2 | Race 2</display-name>
-  </channel>
-  <programme start="20250601000000 +0200" stop="20250601160000 +0200" channel="WorldChampionshipGermanyMX2Race2">
-    <title lang="it">Inizia  alle 16:00.</title>
-    <desc lang="it">World Championship Germany | MX2 | Race 2.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601160000 +0200" stop="20250601180000 +0200" channel="WorldChampionshipGermanyMX2Race2">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">World Championship Germany | MX2 | Race 2</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="GrandSlamTrackFiladelfiaPhiladelphiaDay2">
     <display-name>Grand Slam Track | Filadelfia Philadelphia | Day 2</display-name>
   </channel>
@@ -98,28 +72,5 @@
     <title lang="it">Trasmesso in diretta.</title>
     <desc lang="it">Italy Serie A : Trapani Shark vs. Pallacanestro Brescia</desc>
     <category lang="it">Basketball</category>
-  </programme>
-  <channel id="TourofItalyStage21141Roma">
-    <display-name>Tour of Italy Stage 21 - 141 Roma</display-name>
-  </channel>
-  <programme start="20250601000000 +0200" stop="20250601150000 +0200" channel="TourofItalyStage21141Roma">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Tour of Italy Stage 21 - 141 Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601150000 +0200" stop="20250601170000 +0200" channel="TourofItalyStage21141Roma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Italy Stage 21 - 141 Roma</desc>
-    <category lang="it">Cycling</category>
-  </programme>
-  <programme start="20250601000000 +0200" stop="20250601150000 +0200" channel="TourofItalyStage21141Roma">
-    <title lang="it">Inizia  alle 15:00.</title>
-    <desc lang="it">Tour of Italy Stage 21 - 141 Roma.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601150000 +0200" stop="20250601170000 +0200" channel="TourofItalyStage21141Roma">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Tour of Italy Stage 21 - 141 Roma</desc>
-    <category lang="it">Cycling</category>
   </programme>
 </tv>
