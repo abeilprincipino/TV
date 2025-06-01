@@ -26,19 +26,6 @@
     <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 8</desc>
     <category lang="it">Tennis</category>
   </programme>
-  <channel id="FormulaEShanghaiRace2Round10">
-    <display-name>Formula E Shanghai | Race 2 Round 10</display-name>
-  </channel>
-  <programme start="20250601000000 +0200" stop="20250601080000 +0200" channel="FormulaEShanghaiRace2Round10">
-    <title lang="it">Inizia  alle 08:00.</title>
-    <desc lang="it">Formula E Shanghai | Race 2 Round 10.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601080000 +0200" stop="20250601100000 +0200" channel="FormulaEShanghaiRace2Round10">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Formula E Shanghai | Race 2 Round 10</desc>
-    <category lang="it">Motorsport</category>
-  </programme>
   <channel id="Formula3AramcoSpanishGrandPrixRace">
     <display-name>Formula 3 : Aramco Spanish Grand Prix - Race</display-name>
   </channel>
