@@ -8,15 +8,6 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="italyseriebspeziavscremonese" tvg-name="Italy - Serie B : Spezia vs Cremonese (20:30)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Spezia_vs_Cremonese.png" group-title="Eventi Live",Italy - Serie B : Spezia vs Cremonese (20:30)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-10.php
 
-#EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="formula1aramcospanishgrandprixrace" tvg-name="Formula 1 : Aramco Spanish Grand Prix - Race (15:00)" tvg-logo="https://logospng.org/download/formula-1/formula-1-4096.png" group-title="Eventi Live",Formula 1 : Aramco Spanish Grand Prix - Race (15:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-577.php
-
-#EXTINF:-1 tvg-id="worldchampionshipgermanymx2race2" tvg-name="World Championship Germany | MX2 | Race 2 (16:00)" tvg-logo="https://www.ieiworld.com.cn/_attach_file/product/photo/658_1565246260_Mustang-MPCIE-MX2-VPU-accelerator-600.png" group-title="Eventi Live",World Championship Germany | MX2 | Race 2 (16:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
-
 #EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
 https://exemple.m3u8
 
@@ -34,13 +25,4 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 
 #EXTINF:-1 tvg-id="italyserieatrapanisharkvspallacanestrobrescia" tvg-name="Italy Serie A : Trapani Shark vs. Pallacanestro Brescia (20:45)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Trapani Shark_vs_Pallacanestro Brescia.png" group-title="Eventi Live",Italy Serie A : Trapani Shark vs. Pallacanestro Brescia (20:45)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-882.php
-
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="tourofitalystage21141roma" tvg-name="Tour of Italy Stage 21 - 141 Roma (15:00)" tvg-logo="https://cdn.cookielaw.org/logos/1cb7fe57-d2de-4bbe-be68-495598d39f44/e3e840cd-98d6-46ac-b5a0-a7072d19591d/bdd71500-e8b2-4d48-b3a5-a2f5537f3b42/TDF-Logo-Light_background-RGB.png" group-title="Eventi Live",Tour of Italy Stage 21 - 141 Roma (15:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-851.php
-
-#EXTINF:-1 tvg-id="tourofitalystage21141roma" tvg-name="Tour of Italy Stage 21 - 141 Roma (15:00)" tvg-logo="https://cdn.getyourguide.com/supplier-portal/profile_img/305746-1690379756181.png" group-title="Eventi Live",Tour of Italy Stage 21 - 141 Roma (15:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-878.php
 
