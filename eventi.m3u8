@@ -23,7 +23,7 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-id="formula3aramcospanishgrandprixrace" tvg-name="Formula 3 : Aramco Spanish Grand Prix - Race (08:30)" tvg-logo="https://images.seeklogo.com/logo-png/5/2/formula-3-euro-series-logo-png_seeklogo-56757.png" group-title="Eventi Live",Formula 3 : Aramco Spanish Grand Prix - Race (08:30)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-577.php
 
-#EXTINF:-1 tvg-id="formula2aramcospanishgrandprixrace" tvg-name="Formula 2 : Aramco Spanish Grand Prix - Race (09:55)" tvg-logo="https://assets.antenaplay.ro/2024/02/28/YW9VML2K4hpFUKMHme97.png" group-title="Eventi Live",Formula 2 : Aramco Spanish Grand Prix - Race (09:55)
+#EXTINF:-1 tvg-id="formula2aramcospanishgrandprixrace" tvg-name="Formula 2 : Aramco Spanish Grand Prix - Race (09:55)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/3iwfjg1536242234.png" group-title="Eventi Live",Formula 2 : Aramco Spanish Grand Prix - Race (09:55)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-577.php
 
 #EXTINF:-1 tvg-id="worldchampionshipgermanymx2race1" tvg-name="World Championship Germany | MX2 | Race 1 (13:00)" tvg-logo="https://www.ieiworld.com.cn/_attach_file/product/photo/658_1565246260_Mustang-MPCIE-MX2-VPU-accelerator-600.png" group-title="Eventi Live",World Championship Germany | MX2 | Race 1 (13:00)
@@ -43,12 +43,6 @@ https://exemple.m3u8
 
 #EXTINF:-1 tvg-id="grandslamtrackfiladelfiaphiladelphiaday2" tvg-name="Grand Slam Track | Filadelfia Philadelphia | Day 2 (21:30)" tvg-logo="https://www.runblogrun.com/wp-content/uploads/2024/07/GrandSlamTrack-Primary-Vertical-BlackRed.png" group-title="Eventi Live",Grand Slam Track | Filadelfia Philadelphia | Day 2 (21:30)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
-
-#EXTINF:-1 tvg-name="Climbing" group-title="Eventi Live",--- Climbing ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="worldcupdenvermensandwomensspeedfinal" tvg-name="World Cup | Denver Men's and Women's Speed ??| Final (00:00)" tvg-logo="http://drnewsupdate.com/wp-content/uploads/2023/09/ICC-Cricket-World-Cup-2023-1.png" group-title="Eventi Live",World Cup | Denver Men's and Women's Speed ??| Final (00:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-878.php
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
