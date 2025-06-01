@@ -13,19 +13,6 @@
     <desc lang="it">Italy - Serie B : Spezia vs Cremonese</desc>
     <category lang="it">Soccer</category>
   </programme>
-  <channel id="RolandGarrosTennisMensandWomensSinglesDay8">
-    <display-name>Roland-Garros Tennis Men's and Women's Singles | Day 8</display-name>
-  </channel>
-  <programme start="20250601000000 +0200" stop="20250601110000 +0200" channel="RolandGarrosTennisMensandWomensSinglesDay8">
-    <title lang="it">Inizia  alle 11:00.</title>
-    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 8.</desc>
-    <category lang="it">Annuncio</category>
-  </programme>
-  <programme start="20250601110000 +0200" stop="20250601130000 +0200" channel="RolandGarrosTennisMensandWomensSinglesDay8">
-    <title lang="it">Trasmesso in diretta.</title>
-    <desc lang="it">Roland-Garros Tennis Men's and Women's Singles | Day 8</desc>
-    <category lang="it">Tennis</category>
-  </programme>
   <channel id="WorldChampionshipGermanyMX2Race1">
     <display-name>World Championship Germany | MX2 | Race 1</display-name>
   </channel>
