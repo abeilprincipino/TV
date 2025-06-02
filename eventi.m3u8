@@ -5,21 +5,18 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="italyseriebspeziavscremonese" tvg-name="Italy - Serie B : Spezia vs Cremonese (20:30)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Spezia_vs_Cremonese.png" group-title="Eventi Live",Italy - Serie B : Spezia vs Cremonese (20:30)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-10.php
+#EXTINF:-1 tvg-id="italyseriecternanavspescara" tvg-name="Italy - Serie C : Ternana vs Pescara (21:15)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Ternana_vs_Pescara.png" group-title="Eventi Live",Italy - Serie C : Ternana vs Pescara (21:15)
+https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-2.php
 
-#EXTINF:-1 tvg-name="Athletics" group-title="Eventi Live",--- Athletics ---
+#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="grandslamtrackfiladelfiaphiladelphiaday2" tvg-name="Grand Slam Track | Filadelfia Philadelphia | Day 2 (21:30)" tvg-logo="https://www.runblogrun.com/wp-content/uploads/2024/07/GrandSlamTrack-Primary-Vertical-BlackRed.png" group-title="Eventi Live",Grand Slam Track | Filadelfia Philadelphia | Day 2 (21:30)
+#EXTINF:-1 tvg-id="rolandgarrostennismensandwomenssingles4thround" tvg-name="Roland-Garros Tennis Men's and Women's Singles | 4th Round (11:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Roland-Garros Tennis Men's and Women's Singles | 4th Round (11:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="basketserieaplayoffssemifinalsgame2" tvg-name="Basket : Serie A Playoffs | Semi-Finals | Game 2 (20:40)" tvg-logo="https://png.pngtree.com/png-clipart/20230527/original/pngtree-basketball-logo-png-image_9171255.png" group-title="Eventi Live",Basket : Serie A Playoffs | Semi-Finals | Game 2 (20:40)
+#EXTINF:-1 tvg-id="legaavirtusbolognavsolimpiamilano" tvg-name="Lega A : Virtus Bologna vs Olimpia Milano (20:45)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Virtus Bologna_vs_Olimpia Milano.png" group-title="Eventi Live",Lega A : Virtus Bologna vs Olimpia Milano (20:45)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
-
-#EXTINF:-1 tvg-id="italyserieatrapanisharkvspallacanestrobrescia" tvg-name="Italy Serie A : Trapani Shark vs. Pallacanestro Brescia (20:45)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Trapani Shark_vs_Pallacanestro Brescia.png" group-title="Eventi Live",Italy Serie A : Trapani Shark vs. Pallacanestro Brescia (20:45)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-882.php
 
