@@ -2,9 +2,3 @@
 #EXTINF:-1 tvg-name="DADDYLIVE" group-title="Eventi Live",DADDYLIVE
 https://example.com.m3u8
 
-#EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="uefawomensnationsleaguewalesvsitaly" tvg-name="UEFA Women's Nations League : Wales vs Italy (19:30)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Wales_vs_Italy.png" group-title="Eventi Live",UEFA Women's Nations League : Wales vs Italy (19:30)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-882.php
-
