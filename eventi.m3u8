@@ -14,12 +14,6 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-id="uefanationsleaguegermanyvsportugal" tvg-name="UEFA Nations League : Germany vs Portugal (21:00)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Germany_vs_Portugal.png" group-title="Eventi Live",UEFA Nations League : Germany vs Portugal (21:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-461.php
 
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="rolandgarroswomensinglesquarterfinal" tvg-name="Roland-Garros Women | Singles | Quarter-Final (16:00)" tvg-logo="https://www.godesana.com/assets/img/essentialsingles_index_feature_tabs.png" group-title="Eventi Live",Roland-Garros Women | Singles | Quarter-Final (16:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
-
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
