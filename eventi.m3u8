@@ -14,9 +14,6 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-name="Tennis MIXED DOUBLES - ROLAND GARROS" group-title="Eventi Live",--- Tennis MIXED DOUBLES - ROLAND GARROS ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="rolandgarrosmixeddoublesfinal" tvg-name="Roland-Garros Mixed | Doubles | Final (12:00)" tvg-logo="https://smashingcancer.org/wp-content/uploads/2023/01/mixed-doubles.png" group-title="Eventi Live",Roland-Garros Mixed | Doubles | Final (12:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
-
 #EXTINF:-1 tvg-id="rolandgarroswomensinglessemifinal" tvg-name="Roland-Garros Women | Singles | Semi-Final (17:00)" tvg-logo="https://www.godesana.com/assets/img/essentialsingles_index_feature_tabs.png" group-title="Eventi Live",Roland-Garros Women | Singles | Semi-Final (17:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
