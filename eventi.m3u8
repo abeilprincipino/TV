@@ -5,12 +5,6 @@ https://example.com.m3u8
 #EXTINF:-1 tvg-name="Soccer" group-title="Eventi Live",--- Soccer ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="friendlybulgariavscyprus" tvg-name="Friendly : Bulgaria vs Cyprus (18:00)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Bulgaria_vs_Cyprus.png" group-title="Eventi Live",Friendly : Bulgaria vs Cyprus (18:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-461.php
-
-#EXTINF:-1 tvg-id="friendlybulgariavscyprus" tvg-name="Friendly : Bulgaria vs Cyprus (18:00)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Bulgaria_vs_Cyprus.png" group-title="Eventi Live",Friendly : Bulgaria vs Cyprus (18:00)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-870.php
-
 #EXTINF:-1 tvg-id="worldcupqualifyingnorthmacedoniavsbelgium" tvg-name="World Cup Qualifying : North Macedonia vs Belgium (20:45)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/North Macedonia_vs_Belgium.png" group-title="Eventi Live",World Cup Qualifying : North Macedonia vs Belgium (20:45)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-461.php
 
@@ -21,11 +15,5 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 https://exemple.m3u8
 
 #EXTINF:-1 tvg-id="legabasketserieampresiavstrapani" tvg-name="Lega Basket Serie A : Mpresia vs Trapani (20:45)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Mpresia_vs_Trapani.png" group-title="Eventi Live",Lega Basket Serie A : Mpresia vs Trapani (20:45)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
-
-#EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomeneliteleogang" tvg-name="UCI Cross-country Short Track World Cup | Women Elite | Leogang (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Short Track World Cup | Women Elite | Leogang (17:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
