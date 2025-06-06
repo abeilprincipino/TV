@@ -17,12 +17,6 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-id="worldcupqualifyingnorwayvsitaly" tvg-name="World Cup Qualifying : Norway vs Italy (20:45)" tvg-logo="https://raw.githubusercontent.com/abeilprincipino/TV/main/logos/Norway_vs_Italy.png" group-title="Eventi Live",World Cup Qualifying : Norway vs Italy (20:45)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-850.php
 
-#EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
-https://exemple.m3u8
-
-#EXTINF:-1 tvg-id="rolandgarrosmensinglessemifinal" tvg-name="Roland-Garros Men | Singles | Semi-Final (14:30)" tvg-logo="https://www.poke-singles.com/image/catalog/400x400.png" group-title="Eventi Live",Roland-Garros Men | Singles | Semi-Final (14:30)
-https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
-
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
 https://exemple.m3u8
 
