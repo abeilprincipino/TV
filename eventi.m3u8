@@ -20,10 +20,10 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-name="Tennis" group-title="Eventi Live",--- Tennis ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="2025rolandgarrostennisladiesdoublesfirstsemifinal" tvg-name="2025 Roland-Garros Tennis Ladies Doubles - First Semifinal (11:00)" tvg-logo="https://logonoid.com/images/roland-garros-logo.png" group-title="Eventi Live",2025 Roland-Garros Tennis Ladies Doubles - First Semifinal (11:00)
+#EXTINF:-1 tvg-id="2025rolandgarrostennisladiesdoublesfirstsemifinal" tvg-name="2025 Roland-Garros Tennis Ladies Doubles - First Semifinal (11:00)" tvg-logo="http://logonoid.com/images/roland-garros-logo.png" group-title="Eventi Live",2025 Roland-Garros Tennis Ladies Doubles - First Semifinal (11:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
-#EXTINF:-1 tvg-id="rolandgarrosmensinglessemifinal" tvg-name="Roland-Garros Men | Singles | Semi-Final (14:30)" tvg-logo="https://irishnumberones.files.wordpress.com/2022/01/irish_number_one_singles.png" group-title="Eventi Live",Roland-Garros Men | Singles | Semi-Final (14:30)
+#EXTINF:-1 tvg-id="rolandgarrosmensinglessemifinal" tvg-name="Roland-Garros Men | Singles | Semi-Final (14:30)" tvg-logo="https://streamcoimg-a.akamaihd.net/cms/2022/5/e249269a-434d-418a-573d-6c5e7fcc45bf.png" group-title="Eventi Live",Roland-Garros Men | Singles | Semi-Final (14:30)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
@@ -32,13 +32,13 @@ https://exemple.m3u8
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofspainfreepractice1" tvg-name="MotoGP : Greek Grand Prix of Spain Free Practice 1 (09:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Free Practice 1 (09:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofspainfreepractice1" tvg-name="Moto 3 : Greek Grand Prix of Spain Free Practice 1 (09:00)" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/04/moto-gp-3-vector-logo.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Free Practice 1 (09:00)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainfreepractice1" tvg-name="Moto 3 : Greek Grand Prix of Spain Free Practice 1 (09:00)" tvg-logo="https://www.motofresno.com/wp-content/uploads/2023/01/Moto-Fresno-Text-Logo-1968x2048-2.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Free Practice 1 (09:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
 #EXTINF:-1 tvg-id="moto2greekgrandprixofspainfreepractice1" tvg-name="Moto 2 : Greek Grand Prix of Spain Free Practice 1 (09:45)" tvg-logo="https://www.agendatv-auto-moto.com/images/visuels/competition_moto_2_11112020172831.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Free Practice 1 (09:45)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofspainpractice" tvg-name="Moto 3 : Greek Grand Prix of Spain Practice (13:10)" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/04/moto-gp-3-vector-logo.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Practice (13:10)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainpractice" tvg-name="Moto 3 : Greek Grand Prix of Spain Practice (13:10)" tvg-logo="https://www.motofresno.com/wp-content/uploads/2023/01/Moto-Fresno-Text-Logo-1968x2048-2.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Practice (13:10)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofspainpractice1" tvg-name="MotoGP : Greek Grand Prix of Spain Practice 1 (13:15)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Practice 1 (13:15)
@@ -56,7 +56,7 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-name="Cycling" group-title="Eventi Live",--- Cycling ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="tourofsloveniastage3menmajperkormoz1734km" tvg-name="Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km) (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km) (13:00)
+#EXTINF:-1 tvg-id="tourofsloveniastage3menmajperkormoz1734km" tvg-name="Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km) (13:00)" tvg-logo="https://static.flashscore.com/res/image/data/feOGmXWI-2Ha0aJXc.png" group-title="Eventi Live",Tour of Slovenia | Stage 3 Men | Majšperk - Ormoz (173.4km) (13:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
 #EXTINF:-1 tvg-id="ucicrosscountryshorttrackworldcupwomeneliteleogang" tvg-name="UCI Cross-country Short Track World Cup | Women Elite | Leogang (17:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",UCI Cross-country Short Track World Cup | Women Elite | Leogang (17:00)
