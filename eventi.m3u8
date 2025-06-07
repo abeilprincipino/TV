@@ -44,13 +44,13 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-name="Motorsport" group-title="Eventi Live",--- Motorsport ---
 https://exemple.m3u8
 
-#EXTINF:-1 tvg-id="moto3greekgrandprixofspainfreepractice2" tvg-name="Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/04/moto-gp-3-vector-logo.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)
+#EXTINF:-1 tvg-id="moto3greekgrandprixofspainfreepractice2" tvg-name="Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)" tvg-logo="https://www.motofresno.com/wp-content/uploads/2023/01/Moto-Fresno-Text-Logo-1968x2048-2.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Free Practice 2 (08:35)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofspainqualifying" tvg-name="MotoGP : Greek Grand Prix of Spain Qualifying (10:00)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Qualifying (10:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofspainfreepractice2" tvg-name="Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)" tvg-logo="https://www.motofresno.com/wp-content/uploads/2023/01/Moto-Fresno-Text-Logo-1968x2048-2.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainfreepractice2" tvg-name="Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/moto-gp-logo-png-transparent.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Free Practice 2 (10:45)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
 #EXTINF:-1 tvg-id="moto3greekgrandprixofspainqualifying" tvg-name="Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)" tvg-logo="https://www.motofresno.com/wp-content/uploads/2023/01/Moto-Fresno-Text-Logo-1968x2048-2.png" group-title="Eventi Live",Moto 3 : Greek Grand Prix of Spain Qualifying (12:45)
@@ -59,13 +59,13 @@ https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redi
 #EXTINF:-1 tvg-id="worldchampionship8hoursofspafrancorchampsrace" tvg-name="World Championship 8 Hours of Spa-Francorchamps | Race (13:00)" tvg-logo="http://www.bing.com/sa/simg/facebook_sharing_5.png" group-title="Eventi Live",World Championship 8 Hours of Spa-Francorchamps | Race (13:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-878.php
 
-#EXTINF:-1 tvg-id="moto2greekgrandprixofspainqualifying" tvg-name="Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)" tvg-logo="https://www.motofresno.com/wp-content/uploads/2023/01/Moto-Fresno-Text-Logo-1968x2048-2.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)
+#EXTINF:-1 tvg-id="moto2greekgrandprixofspainqualifying" tvg-name="Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)" tvg-logo="https://www.agendatv-auto-moto.com/images/visuels/competition_moto_2_11112020172831.png" group-title="Eventi Live",Moto 2 : Greek Grand Prix of Spain Qualifying (13:40)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
 #EXTINF:-1 tvg-id="motogpgreekgrandprixofspainsprintrace" tvg-name="MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/11/MotoGP-Logo-2024.png" group-title="Eventi Live",MotoGP : Greek Grand Prix of Spain Sprint Race (14:45)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-575.php
 
-#EXTINF:-1 tvg-id="worldchampionship8hoursofsparace" tvg-name="World Championship 8 Hours of Spa | Race (17:00)" tvg-logo="https://png.pngtree.com/png-clipart/20230816/original/pngtree-minimalist-race-flag-icon-and-logo-design-black-race-logo-vector-picture-image_10864759.png" group-title="Eventi Live",World Championship 8 Hours of Spa | Race (17:00)
+#EXTINF:-1 tvg-id="worldchampionship8hoursofsparace" tvg-name="World Championship 8 Hours of Spa | Race (17:00)" tvg-logo="https://images.seeklogo.com/logo-png/49/3/race-of-champions-logo-png_seeklogo-499022.png?v=1957018008571812240" group-title="Eventi Live",World Championship 8 Hours of Spa | Race (17:00)
 https://mfp.casavelli.top/extractor/video?host=DLHD&api_password=4aioONLY!!&redirect_stream=true&d=https%3A%2F%2Fdaddylive.dad%2Fembed%2Fstream-879.php
 
 #EXTINF:-1 tvg-name="Basketball" group-title="Eventi Live",--- Basketball ---
